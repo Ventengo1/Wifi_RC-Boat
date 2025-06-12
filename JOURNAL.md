@@ -19,5 +19,7 @@ created_at: "2025-06-12"
 
 - ![image](https://github.com/user-attachments/assets/af169bda-7015-411e-979a-d1b05e7968c0)
 
+- Going to end up using 2 of these to power my servos and basically the enitre thing; https://www.amazon.com/Sunnytech-1-25w-Module-Polysilicon-Charger/dp/B008J9BYY0?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A38GXV238JJXE&utm_source=chatgpt.com&th=1
 
-**Total time spent: 2h**
+
+**Total time spent: 2.5h**
