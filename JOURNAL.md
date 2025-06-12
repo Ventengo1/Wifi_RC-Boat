@@ -1,4 +1,3 @@
-
 ---
 title: "DIY Pool Skimmer Robot"
 author: "Ventengo"
