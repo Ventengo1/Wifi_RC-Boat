@@ -23,3 +23,22 @@ created_at: "2025-06-12"
 
 
 **Total time spent: 2.5h**
+
+# June 13: Finishing up finding parts and creating models
+
+- Started off by finding some pvc pipe to use
+- Did a bit of reaserch and then decided to use pvc pipes with caps
+- And then have pool noddle on them for floatation
+- After this found netting
+- Simple pool handheld skimmer net which will use for the robot
+- In total spend around 30min on this
+- Then went on to creating a tinkercad model with the correct dimensions for the robot
+- Didn't add all the wiring but added basically everyhting else
+- Main model I also created was the solar panel mount which will house all the wires and the switches
+- Currently deciding on whether to put a plastic waterproof box or something like this to protect the wires and the swtich
+- Probably will which will add about $8-10 to cost
+- Current cost in $40
+- Because solar panels are expensive and don't trsut aliexpress ones
+- Read on reddit and other forums that they tend to be scams
+
+  **Total time spent: 1.5h**
