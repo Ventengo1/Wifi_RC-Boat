@@ -35,10 +35,15 @@ created_at: "2025-06-12"
 - Then went on to creating a tinkercad model with the correct dimensions for the robot
 - Didn't add all the wiring but added basically everyhting else
 - Main model I also created was the solar panel mount which will house all the wires and the switches
+- ![Screenshot 2025-06-13 152559](https://github.com/user-attachments/assets/c1768202-c1ba-4be7-bf0d-7e9217eee627)
+![Screenshot 2025-06-13 152546](https://github.com/user-attachments/assets/30410465-bc05-47de-b4bb-7085e64cc460)
+
 - Currently deciding on whether to put a plastic waterproof box or something like this to protect the wires and the swtich
 - Probably will which will add about $8-10 to cost
 - Current cost in $40
 - Because solar panels are expensive and don't trsut aliexpress ones
 - Read on reddit and other forums that they tend to be scams
+- Just found a box to use (This is a edit to my prior entry)
+- It should be about $4 and will help keep everything waterproof and sealed away
 
-  **Total time spent: 1.5h**
+  **Total time spent: 2h**
