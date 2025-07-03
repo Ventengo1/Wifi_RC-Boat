@@ -1,7 +1,7 @@
 ---
-title: "DIY Pool Skimmer Robot"
+title: "DIY RC Boat"
 author: "Ventengo"
-description: "A solar powered pool skimmer which helps to clean the surface of your pool"
+description: "A wifi phone application controlled rc boat"
 created_at: "2025-06-12"
 ---
 
@@ -47,3 +47,15 @@ created_at: "2025-06-12"
 - It should be about $4 and will help keep everything waterproof and sealed away
 
   **Total time spent: 2h**
+
+  # July 3rd: Changing Idea and Working
+  - Coming back to this after a while and I have decided to change my project
+  - Now I will make a rc boat with 2 motors that is wifi controlled
+  - No solar this time though
+  - Or at least for now...
+  - Spent a bunch of time finding parts and going through ideas and finally setlled on this
+  - Going to use a ESP32
+  - Motor Driver Module
+  - 2 underwater motors from aliexpres: https://www.aliexpress.us/item/3256806529604559.html?spm=a2g0o.cart.0.0.67c038daRKYmRW&mp=1&pdp_npi=5%40dis%21USD%21USD%2047.93%21USD%2019.17%21%21USD%2019.17%21%21%21%402101c5ac17515732165061521ef870%2112000038078834790%21ct%21US%216376028355%21%211%210&gatewayAdapt=glo2usa
+    - 7.4v battery for motors
+    - And more to come
