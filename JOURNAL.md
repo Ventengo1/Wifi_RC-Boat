@@ -59,3 +59,5 @@ created_at: "2025-06-12"
   - 2 underwater motors from aliexpres: https://www.aliexpress.us/item/3256806529604559.html?spm=a2g0o.cart.0.0.67c038daRKYmRW&mp=1&pdp_npi=5%40dis%21USD%21USD%2047.93%21USD%2019.17%21%21USD%2019.17%21%21%21%402101c5ac17515732165061521ef870%2112000038078834790%21ct%21US%216376028355%21%211%210&gatewayAdapt=glo2usa
     - 7.4v battery for motors
     - And more to come
+   
+**Total time spent: 2h**
