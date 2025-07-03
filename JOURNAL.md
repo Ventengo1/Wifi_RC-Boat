@@ -61,3 +61,15 @@ created_at: "2025-06-12"
     - And more to come
    
 **Total time spent: 2h**
+
+  # July 4th: 3d Models
+  - Spent the entire time today working on creating the 3d models
+  - Created a speed boat with motor mounts and a cover
+  - Roughly 7in in length
+  - Added a large crevice for all the electronics and mounting place for both motors with propellers
+  - Pretty much done now!!!
+  - ![Screenshot 2025-07-03 171323](https://github.com/user-attachments/assets/24a6185e-727e-4385-94da-b6170187b147)
+![Screenshot 2025-07-03 171315](https://github.com/user-attachments/assets/0a8339ac-32c4-4399-a579-aec93fae35fd)
+
+   
+**Total time spent: 2.5h**
