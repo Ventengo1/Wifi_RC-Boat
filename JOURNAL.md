@@ -67,9 +67,27 @@ created_at: "2025-06-12"
   - Created a speed boat with motor mounts and a cover
   - Roughly 7in in length
   - Added a large crevice for all the electronics and mounting place for both motors with propellers
-  - Pretty much done now!!!
+  - Pretty much done now with hardware related thing now!!!
+  - Next time will work on the coding portion
+  - I'll try to work on July 5th, but may not be able to
   - ![Screenshot 2025-07-03 171323](https://github.com/user-attachments/assets/24a6185e-727e-4385-94da-b6170187b147)
 ![Screenshot 2025-07-03 171315](https://github.com/user-attachments/assets/0a8339ac-32c4-4399-a579-aec93fae35fd)
 
    
 **Total time spent: 2.5h**
+
+  # July 5th: Code
+  - Today worked on coding
+  - Going to have the program create a wifi hotspot which I connect my phone to (ESP32)
+  - Then I open the browser and control it from there
+  - The webpage has 5 different buttons
+  - Forward (both motors forward)
+  - Left (left back, right forward)
+  - Stop (Both motors stop)
+  - Right (left forward, right back)
+  - Reverse (both motors backward)
+  - Spent a lot of time looking at tutorials but figured it out
+  - Got all the libraries installed which is just wifi.h and webserver.h
+  - Also installed the ESP32 Wroom board
+  - So all good now
+**Total time spent: 2h**    
