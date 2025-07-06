@@ -90,4 +90,13 @@ created_at: "2025-06-12"
   - Got all the libraries installed which is just wifi.h and webserver.h
   - Also installed the ESP32 Wroom board
   - So all good now
-**Total time spent: 2h**    
+**Total time spent: 2h**
+
+  # July 6th: README and Final Touches
+
+  - Worked on README and BOM
+  - Got everything uploaded and spent time going through all the submission criteria to make sure everything is good
+  - I am going to submit this as a basic 4 point project as I it is not very complex
+  - Also fully calculated cost and upload the BOM as a csv to clear up any issues
+
+**Total time spent: 0.75h**
