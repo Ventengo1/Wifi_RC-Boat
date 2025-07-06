@@ -1,4 +1,4 @@
-This is a simple, low-cost RC boat that uses two brushed DC motors controlled via Wi-Fi using an ESP32. It works without a rudder — instead, it steers using differential thrust. The boat is controlled through a web interface hosted directly on the ESP32, so no external app is needed.
+This is a simple, low-cost RC boat that uses two brushed DC motors controlled via Wi-Fi using an ESP32. It works by using using differential thrust for steering and turning. The boat is controlled through a web interface hosted directly on the ESP32, so no external app is needed.
 
 I made this project because I have always liked robotics and remote control things. For my prior highway project I made a servo controlled model rocket with fins for guidance. This time however, I wanted to do something similar but with water which is how this idea was born.
 
