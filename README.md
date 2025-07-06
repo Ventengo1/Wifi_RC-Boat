@@ -13,7 +13,9 @@ L298N motor driver for dual brushed DC motors
 
 2x 6–12V brushed DC motors connected to propeller shafts
 
-18650 Li-ion battery pack for power
+7.4v Li-ion battery pack for powering motor driver
+
+3.7v Li-ion battery pack for ESP32
 
 No steering servo — direction is controlled via motor speed
 
